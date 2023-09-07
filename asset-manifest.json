@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dca3c355.css",
-    "main.js": "/static/js/main.9539aa56.js",
+    "main.js": "/static/js/main.7b169c48.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/notezipper.png": "/static/media/notezipper.99a0271f6bf5a1afad43.png",
@@ -9,7 +9,7 @@
     "static/media/disp.png": "/static/media/disp.387169d0193234ff2bd4.png",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/AmaanAnsari_IITGN_Resume.pdf": "/static/media/AmaanAnsari_IITGN_Resume.59f0a357e3b1bab914ee.pdf",
+    "static/media/AmaanAnsari_IITGN_Resume.pdf": "/static/media/AmaanAnsari_IITGN_Resume.2d765c5fb938c5dade17.pdf",
     "static/media/scolas.png": "/static/media/scolas.863c2e11c80f234022b1.png",
     "static/media/TlBooking.png": "/static/media/TlBooking.c6315fc3952df4740dc9.png",
     "static/media/colorgame.png": "/static/media/colorgame.7be80c9a91d202053551.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.dca3c355.css.map": "/static/css/main.dca3c355.css.map",
-    "main.9539aa56.js.map": "/static/js/main.9539aa56.js.map",
+    "main.7b169c48.js.map": "/static/js/main.7b169c48.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dca3c355.css",
-    "static/js/main.9539aa56.js"
+    "static/js/main.7b169c48.js"
   ]
 }
